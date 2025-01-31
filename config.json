@@ -1,0 +1,7 @@
+{
+  "Account": {
+    "Authorization-Cookie": "...",
+  },
+  "ReadAndAcceptTheGuidelines": false,
+  "ReadAndAcceptTheRisks": false
+}
